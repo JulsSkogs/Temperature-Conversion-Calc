@@ -1,0 +1,19 @@
+/* Headings */
+h1 {
+
+}
+
+/* Containers */
+.intro-container {
+    position: relative;
+    background-color: rgb(0, 110, 127);
+    color: rgb(248, 203, 46);
+}
+
+
+.footer-container {
+    background-color: rgb(248, 203, 46);
+}
+
+/* Links */
+
